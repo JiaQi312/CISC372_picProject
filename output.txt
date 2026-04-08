@@ -1,0 +1,12 @@
+Script started on Wed Apr  8 09:55:31 2026
+]0;qijia@r1n01.darwin:~/CISC372_picProject[?1034h[qijia@r1n01 CISC372_picProject]$ srun ./openmp pic1.jpg edge
+Took 7 seconds
+]0;qijia@r1n01.darwin:~/CISC372_picProject[qijia@r1n01 CISC372_picProject]$ ls
+README.md  image.h   openmp    output.txt   pic1.jpg  pic3.jpg	stb_image.h	   threads    threads.h
+image.c    makefile  openmp.c  output3.png  pic2.jpg  pic4.jpg	stb_image_write.h  threads.c
+]0;qijia@r1n01.darwin:~/CISC372_picProject[qijia@r1n01 CISC372_picProject]$ ./threads pic1.jpg edge
+Took 7 seconds
+]0;qijia@r1n01.darwin:~/CISC372_picProject[qijia@r1n01 CISC372_picProject]$ exit
+exit
+
+Script done on Wed Apr  8 09:56:49 2026
